@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+  <script>
+    var dataset = {{ data | safe }};
+    console.log(dataset)
+</script>
+  <script type="text/javascript"
+  src="{{ url_for('static', filename='sentimentCount.js') }}"></script>
+</body>
