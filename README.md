@@ -4,9 +4,11 @@ All of the countries have been affected by COVID-19 pandemic. Governments have c
 
 # Datasets Used
 
-Livestreaming covid19 tweets via tweepy.
-March twitter data via Kaggle.
-Google mobility reports data
-Data for major COVID19 events 
+* Livestreaming covid19 tweets via tweepy.
+* March twitter data via Kaggle.
+* Google mobility reports data
+* Data for major COVID19 events 
 
+# Architecture
+<br></br>
 ![Architecture](img/architecture.jpeg)
