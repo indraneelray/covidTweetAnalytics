@@ -8,3 +8,5 @@ Livestreaming covid19 tweets via tweepy.
 March twitter data via Kaggle.
 Google mobility reports data
 Data for major COVID19 events 
+
+![Architecture](img/architecture.jpeg)
